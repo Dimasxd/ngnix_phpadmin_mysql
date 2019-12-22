@@ -1,1 +1,2 @@
 2019/12/22 07:23:27 [error] 7#7: *1 open() "/var/www/proj/favicon.ico" failed (2: No such file or directory), client: 192.168.1.108, server: proj, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.109:81", referrer: "http://192.168.1.109:81/"
+2019/12/22 07:55:21 [error] 7#7: *2 open() "/var/www/proj/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: proj, request: "GET /favicon.ico HTTP/1.1", host: "192.168.1.108:81", referrer: "http://192.168.1.108:81/"
